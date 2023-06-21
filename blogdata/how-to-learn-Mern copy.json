@@ -1,0 +1,7 @@
+{
+  "blogName": "how to learn mern stack",
+  "content": "MERN stack development is a lucrative career with an excellent job outlook. But how exactly do you become a MERN Stack Developer? What technologies do you need to learn and in what order? In this guide, you’ll learn about the components of the MERN stack plus the six basic steps to take to become a MERN Stack Developer.The MERN stack is one of the most popular stacks currently used in web development. It’s composed of MongoDB, Express.js, React, and Node.js. Various stacks are similar in composition to the MERN stack, including the MEAN and MEVN stacks. While these other stacks are popular options, usage of the MERN stack has surged in recent years thanks to one key feature: React.React is the most popular library in the world. The popularity of React is primarily due to its ability to simplify the creation and management of an application’s user interface (UI) and improve overall site performance. It has also benefited from the support of its creator, Facebook, and an enthusiastic community of users. When you put React together with MongoDB, Express.js, and Node.js, the result is a JavaScript-based tech stack that’s highly customizable, developer-friendly, and cost-effective, as it’s completely open-source. The MERN stack works especially well with social media platforms, news aggregation applications, and workflow management. It’s currently being used by several prominent companies, including Netflix and Uber.",
+  "author": "Dhaval Saxena",
+  "slug": "how-to-learn-mern-stack"
+
+}

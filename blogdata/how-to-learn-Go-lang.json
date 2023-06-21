@@ -1,0 +1,6 @@
+{
+  "blogName": "how to learn Go lang",
+  "content": "Go (or Golang) is an open source programming language designed to build fast, reliable, and efficient software at scale.Google uses Go specifically for its large networks of servers, and Go also powers much of Google's own cloud platform. Developers use Go in application development, web development, in operations and infrastructure teams, and much more. It is the language of Cloud Native infrastructure and software development.As Go's popularity and adoption continue to increase, we'll see even greater usage and more creative implementations of the language!",
+  "author": "Dhaval Saxena",
+  "slug": "how-to-learn-Go-lang"
+}
